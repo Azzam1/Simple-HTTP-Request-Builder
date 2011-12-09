@@ -3,3 +3,5 @@ Hi everyony,
 
 This is a very simple HTTP Request builder Objective-C class, where you can construct and built your "multi-part" HTTP requests.
 Please, feel free to use it anytime anywhere :)
+
+NOTE: you may want to change the constant SERVERURL to you desired Server/Remote URL.
