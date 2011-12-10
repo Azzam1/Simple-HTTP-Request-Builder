@@ -5,3 +5,7 @@ This is a very simple dynamic HTTP Request builder Objective-C class, where you 
 Please, feel free to use it anytime anywhere :)
 
 NOTE: you may want to change the constant SERVERURL to your desired Server/Remote URL.
+
+Story:
+One project I was working on, I needed to construct my own HTTP requests (with media files) and send them to the server, hence I tried to look at Cocoa libraries but could not find something ready-to-use.
+So I sniffed at a regular HTML form that was submitting media files to the server, and tried to simulate it, and it worked for me :)
